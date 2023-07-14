@@ -1,24 +1,19 @@
-# ipfs-gateway
+# Intro
 
-## Project setup
-```
-npm install
-```
+Gathering your IPFS gateways to enable users to access CIDs of large files easily (including advertising space)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Config
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Website Name
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Background
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Gateway List
+
+- Ad Code: html format
+
+  
+
+[![avatar](https://markdown.4everland.store/ipfs1.png)](https://markdown.4everland.store/ipfs1.png)
+[![avatar](https://markdown.4everland.store/ipfs2.png)](https://markdown.4everland.store/ipfs2.png)
+
